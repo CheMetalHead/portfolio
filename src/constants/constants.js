@@ -4,8 +4,8 @@ export const projects = [
     description: "Using Next.js with paypal, admin dashboard and mongoDB",
       image: '/images/pizzaLandingPage.jpg',
       tags: ['Paypal','Mongo', 'Express', 'React', 'Node', 'Next'],
-    source: 'https://github.com/CheMetalHead/restaurant-demo',
-    visit: 'https://restaurant-demo.vercel.app/',
+    visit: 'https://github.com/CheMetalHead/restaurant-demo',
+    source: 'https://restaurant-demo.vercel.app/',
     id: 0,
   },
 ];

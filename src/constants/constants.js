@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Full stack ordering app with online payments integrated',
     description: "Using Next.js with paypal, admin dashboard and mongoDB",
-      image: '/images/1.png',
+      image: '/images/pizzaLandingPage.jpg',
       tags: ['Paypal','Mongo', 'Express', 'React', 'Node', 'Next'],
     source: 'https://github.com/CheMetalHead/restaurant-demo',
     visit: 'https://restaurant-demo.vercel.app/',

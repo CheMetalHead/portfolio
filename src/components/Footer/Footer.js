@@ -14,21 +14,21 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href='mailto:contact@markocecura.net'> contact@markocecura.net</LinkItem>
+          <LinkItem href='mailto:contact@markocecura.net'> markocecura@yahoo.com</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Innovation beggins here</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/CheMetalHead">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          {/* <SocialIcons href="https://linkedin.com">
             <AiFillLinkedin size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://instagram.com">
+          </SocialIcons> */}
+          <SocialIcons href="https://www.instagram.com/marko.che95/?hl=en">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>

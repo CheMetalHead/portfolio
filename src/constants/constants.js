@@ -12,5 +12,7 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2019, text: 'Started my journey', },
+  { year: 2020, text: 'Entered into react world', },
+  { year: 2021, text: 'Became full stack developer', },
   { year: 2022, text: 'Won 3rd place at the Conteh 2022 hackaton', },
 ];
